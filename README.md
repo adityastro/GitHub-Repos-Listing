@@ -27,6 +27,10 @@ Make sure you have the following software installed on your machine:
 
     npm install
 
+4. Run with:
+
+    python -m http.server
+
 ### Usage
 
 1. Open the `index.html` file in your web browser.
